@@ -22,15 +22,15 @@ function jumPl2(e){
     console.log(e);
     if(e.key === "ArrowUp"){
        
-        playerimg2.src = "assets/zero-dm.gif"
+        playerimg2.src = "assets/knife.gif"
      }
      else if(e.key === "ArrowLeft"){
        
-        playerimg2.src = "assets/zero-winpose.gif"
+        playerimg2.src = "assets/rolento-spin-hits.gif"
      }
      else if(e.key === "ArrowRight"){
        
-        playerimg2.src = "assets/zero-attack1.gif"
+        playerimg2.src = "assets/rolento-final-fight-mame-capcom.gif"
      }
     
 }
